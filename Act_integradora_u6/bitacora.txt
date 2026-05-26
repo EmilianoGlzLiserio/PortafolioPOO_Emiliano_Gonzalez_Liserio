@@ -1,0 +1,8 @@
+Fecha: 2026-08-10
+Actividad: Programador
+Responsable: Emiliano
+--------------------------
+Fecha: 2026-08-10
+Actividad: Supervisar pcs
+Responsable: Maria Jose
+--------------------------
